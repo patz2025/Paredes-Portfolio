@@ -1,5 +1,7 @@
 {
   "name": "patsyportfolio",
+  "homepage": "https://patz2025.github.io/Paredes-Portfolio",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
