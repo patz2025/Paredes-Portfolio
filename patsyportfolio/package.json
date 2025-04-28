@@ -1,17 +1,16 @@
 {
   "name": "patsyportfolio",
-  "homepage": "https://patz2025.github.io/Paredes-Portfolio",
-
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://patz2025.github.io/Paredes-Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^12.7.4",
